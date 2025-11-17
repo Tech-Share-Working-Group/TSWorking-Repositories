@@ -10,9 +10,9 @@
 
 </br></br>
 
-# 3. リポジトリ一覧
+# 3. リポジトリ一覧(publicリポジトリのみURLあり)
 
-## How-to-create-github-account
+## [How-to-create-github-account](https://github.com/Tech-Share-Working-Group/How-to-create-github-account)
 
 こちらではGithubのアカウントを作成する手順が記載されています。
 
