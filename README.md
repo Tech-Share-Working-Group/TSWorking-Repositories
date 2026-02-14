@@ -176,6 +176,8 @@
 - PostgreSQL
   - ver: 17
     - Docker環境構築方法
+  - ver: 18.2
+    - Docker環境構築方法
 - SQL Server
   - ver: 2022
     - Docker環境構築方法
