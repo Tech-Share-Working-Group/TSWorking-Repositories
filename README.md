@@ -37,6 +37,7 @@
 
 - Ubuntu 22.04
 - Ubuntu 24.04
+- Ubuntu 26.04
 - Rocky 10
 - Fedora 42
 - Debian
