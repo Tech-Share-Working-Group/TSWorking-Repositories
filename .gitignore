@@ -38,6 +38,7 @@
 
 # Java
 *.class
+/classes/
 src/classes/
 
 # Go
@@ -48,6 +49,14 @@ vendor/
 
 # Rust (追加注意：基本targetだけでOK)
 Cargo.lock
+
+# Frontend / Vite
+.vite/
+*.tsbuildinfo
+coverage/
+storybook-static/
+.eslintcache
+.prettiercache
 
 # Logs
 *.log
